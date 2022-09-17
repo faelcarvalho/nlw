@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aui para acessar](https://faelcarvalho.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://faelcarvalho.github.io/nlw-esports-explorer/)
 
 ## ⚒️ Tecnologias
 
